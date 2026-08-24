@@ -1,6 +1,6 @@
 # Antiseizure Medication Administration Gaps Across the ICU-to-Floor Transfer: A Matched Within-Patient Comparison
 
-Gorenshtein A, Adiniaev Y, Omar M, Barash Y, Klang E, Daniel O. Department of Neurology and BRIDGE GenAI Lab, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. Corresponding author: Alon Gorenshtein, MD (agorensh@bidmc.harvard.edu).
+Gorenshtein A, Adiniaev Y, Klang E, Daniel O. Department of Neurology and BRIDGE GenAI Lab, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. Corresponding author: Alon Gorenshtein, MD (agorensh@bidmc.harvard.edu).
 
 Repository: https://github.com/Alon-Gorenshtein/study_asm_continuity
 
@@ -28,7 +28,7 @@ Raw data are **not** included in this repository and cannot be redistributed und
 
 ## Citation
 
-Gorenshtein A, Adiniaev Y, Omar M, Barash Y, Klang E, Daniel O. Antiseizure Medication Administration Gaps Across the ICU-to-Floor Transfer: A Matched Within-Patient Comparison. 2026.
+Gorenshtein A, Adiniaev Y, Klang E, Daniel O. Antiseizure Medication Administration Gaps Across the ICU-to-Floor Transfer: A Matched Within-Patient Comparison. 2026.
 
 ## License
 
